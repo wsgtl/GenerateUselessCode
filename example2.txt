@@ -1,0 +1,14 @@
+package __packageName;
+
+
+import android.util.Log;
+
+public class __className {
+
+    public static void __startFun() {
+        // DO OTHER INITIALIZATION BELOW
+        Log.e("__className","测试start");
+        __addFun
+    }
+    __otherFun
+}
